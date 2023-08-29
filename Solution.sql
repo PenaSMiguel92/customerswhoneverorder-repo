@@ -1,0 +1,2 @@
+--table Customers : id - int, name - varchar
+--table Orders : id - int, customerId - int
